@@ -5,7 +5,7 @@ Final-year **BCA Honours** student at **St. Mary's College, Puthanangadi (Univer
 #### Featured Work
 - **[Hermione-AI](https://github.com/yadunath-g/Hermione-AI)** — Python CLI assistant powered by Groq (`llama-3.1-8b-instant`) with persistent JSON context and 24-bit ANSI terminal formatting.
 - **[IoT-botnet-detection-research](https://github.com/yadunath-g/IoT-botnet-detection-research)** — Edge anomaly detection for resource-constrained ESP32 devices using Micro-Isolation Forests, Information Gain pruning, and 8-bit quantization.
-- **[Handshake_TechFest_2026](https://github.com/yadunath-g/Handshake_TechFest_2026)** — Real-time event networking web app built with Node.js, Express, PostgreSQL, and Supabase.
+- **[Handshake](https://github.com/yadunath-g/Handshake)** — Real-time event networking web app built with Node.js, Express, PostgreSQL, and Supabase.
 - **[python-todo-docker](https://github.com/yadunath-g/python-todo-docker)** — Containerized Python task manager demonstrating clean Docker image packaging and deployment workflows.
 
 #### Core Stack
